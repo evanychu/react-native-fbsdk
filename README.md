@@ -1,3 +1,7 @@
+# Evan Chu's Changes
+* Changes are committed to coleman-dev2 branch, which is based on Facebook's tag 0.7.0.
+* Add more header-search paths to ios/RCTFBSDK.xcodeproj/ in order to compile this SDK for my project.
+
 # React Native FBSDK
 React Native FBSDK is a wrapper around the iOS Facebook SDK and Android Facebook SDK, allowing for Facebook integration in [React Native](https://facebook.github.io/react-native/) apps. Access to native components, from login to sharing, is provided entirely through documented JavaScript modules so you don't have to call a single native function directly.
 
